@@ -1,2 +1,2 @@
-# KrissanahC.github.io
+# Krissanah Chinsoi
 My first GITHUB page
